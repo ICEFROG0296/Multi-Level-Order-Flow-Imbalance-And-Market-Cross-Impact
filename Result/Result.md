@@ -9,10 +9,10 @@ Summary of Trends from the Results
 3. Cross-Impact Coefficients (Plot 2 - “Cross-Impact Coefficients”)
 
 	•	Key Observations:
-	•	AAPL exhibits positive cross-impact on other stocks, especially AMGN and XOM, with coefficients in the range of 5.2 * 10^{-5} to 7.1 * 10^{-5}.
-	•	JPM shows negative self-impact (-6.8 * 10^{-4}) and cross-impact on XOM (-2.1 * 10^{-4}).
+	•	AAPL exhibits positive cross-impact on other stocks, especially AMGN and XOM, with coefficients in the range of 5.2 * 10^-5 to 7.1 * 10^-5.
+	•	JPM shows negative self-impact (-6.8 * 10^-4) and cross-impact on XOM (-2.1 * 10^-4).
 	•	AMGN has negligible influence on itself and other stocks, with all coefficients close to zero. This suggests AMGN’s activity is less interconnected with the broader market.
-	•	XOM displays significant negative self-impact (-5.5 * 10^{-4}), indicating internal OFI imbalances might suppress its price movements.
+	•	XOM displays significant negative self-impact (-5.5 * 10^-4), indicating internal OFI imbalances might suppress its price movements.
 
 Sector Relationships:
 

@@ -44,10 +44,3 @@ General Observations
 	•	AMGN shows strong independence in its OFI dynamics, highlighting the isolated nature of healthcare stocks in high-frequency trading.
 	3.	Inverse Relationships:
 	•	Negative cross-impact between JPM (Financials) and XOM (Energy) aligns with known sectoral dependencies, driven by macroeconomic conditions.
-
-Next Steps
-	•	Deepen Sector Analysis: Quantify cross-impact coefficients within and across sectors (e.g., technology vs. energy).
-	•	Time-Based Trends: Study the evolution of OFI metrics over longer trading windows to identify patterns during market open, midday, and close.
-	•	Model Validation: Use predictive modeling to assess the utility of OFI metrics for forecasting short-term price movements.
-
-Let me know if you’d like assistance with further analysis or insights!

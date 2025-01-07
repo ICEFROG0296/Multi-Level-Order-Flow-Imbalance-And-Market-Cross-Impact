@@ -1,4 +1,4 @@
-# MultiLevelOrderFlowImbalanceAndMarketCrossImpact
+# Multi Level Order Flow Imbalance And Market Cross Impact
 
 ## Overview
 This repository contains the implementation of a quantitative study on **Order Flow Imbalance (OFI)** metrics and their impact on equity markets, focusing on:

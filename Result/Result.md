@@ -1,19 +1,24 @@
 Summary of Observed Trends
 1. Cross-Impact Relationships (Heatmap)
-	•	AAPL (Technology):
+
+AAPL (Technology):
 	•	Strong positive cross-impact on AMGN and XOM, with coefficients of 5.2 * 10^-5 and 7.1 * 10^-5, respectively.
 	•	This indicates AAPL is a dominant market driver, influencing the price movements of other stocks significantly.
-	•	AMGN (Healthcare):
+
+AMGN (Healthcare):
 	•	Negligible cross-impact coefficients across all stocks (close to zero), showing sector independence and limited influence on or from other equities.
-	•	JPM (Financials):
+
+JPM (Financials):
 	•	Notable negative self-impact (-6.8 * 10^-4), reflecting sensitivity to its internal order flow imbalances.
 	•	Negative cross-impact with XOM (-2.1 * 10^-4) aligns with macroeconomic dependencies, where financials and energy often exhibit inverse relationships.
-	•	TSLA (Consumer Discretionary):
+ 
+TSLA (Consumer Discretionary):
 	•	Moderate positive cross-impact on XOM (1.7 * 10^-5), possibly driven by broader market trends but less significant compared to AAPL.
-	•	XOM (Energy):
+
+XOM (Energy):
 	•	Strong negative self-impact (-5.5 * 10^-4) suggests internal trading dynamics dominate its price movements, with limited cross-sector dependencies except AAPL.
 
-2. OFI Trends by Stock
+3. OFI Trends by Stock
 
 AAPL (Technology)
 	•	The Order Flow Imbalance (OFI) for AAPL shows significant fluctuations, particularly at Bid Level 1 and Ask Level 1, indicating high trading activity at the top of the order book.

@@ -32,11 +32,3 @@ Sector Relationships:
 	•	Positive cross-impact coefficients (e.g., AAPL → AMGN, AAPL → XOM) suggest that order flow imbalances in highly liquid stocks like AAPL can influence price movements in other sectors.
 	•	Negative Self-Impact:
 	•	Significant negative self-impact (e.g., JPM and XOM) indicates that these stocks are more reactive to internal imbalances rather than external market-wide influences.
-
-Insights for Further Analysis
-	•	Sector-Wide Impact:
-	•	Investigate whether broader sector-level indices (e.g., Tech, Energy, Healthcare) amplify or mitigate cross-impact coefficients.
-	•	Dominance of AAPL:
-	•	AAPL’s strong positive cross-impact highlights its role as a market driver. This can be further analyzed to evaluate the relationship between AAPL’s OFI and broader index-level trends (e.g., Nasdaq 100).
-	•	Inter-Sector Dependencies:
-	•	Negative coefficients between JPM and XOM suggest inverse dynamics between Financials and Energy sectors. Further analysis can explore whether macroeconomic factors (e.g., oil prices, interest rates) explain these relationships.
